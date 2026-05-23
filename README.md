@@ -1,4 +1,4 @@
-para fazer o bot fucionar .env
+para fazer o bot fucionar .env.                   ESSE MODELO DE BOT COIN CHAVE PARA API ELE TEM FUCIONALIDADES COM IA, O OUTRO QUE ESTOU FAZENDO TERÁ AS INFORMAÇÕES LOCALMENTE 
 
 # ════════════════════════════════════════════════
 #         WILLYAM BOT — Arquivo de Configuração
