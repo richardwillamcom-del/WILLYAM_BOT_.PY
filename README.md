@@ -27,7 +27,7 @@ anthropic>=0.25.0
 python-dotenv>=1.0.0
 
 
-
+OBS: CRI O REQUERIMENTO, O BOT E A .ENV SEPARADAS 
 
 
 
