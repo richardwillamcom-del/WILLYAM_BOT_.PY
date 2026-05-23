@@ -1,3 +1,37 @@
+para fazer o bot fucionar .env
+
+# ════════════════════════════════════════════════
+#         WILLYAM BOT — Arquivo de Configuração
+#         NUNCA compartilhe este arquivo!
+# ════════════════════════════════════════════════
+
+# Token do seu Bot do Discord
+# Obtenha em: https://discord.com/developers/applications
+DISCORD_TOKEN=colocar token aqui
+
+# Chave da API da Anthropic (Claude)
+# Obtenha em: https://console.anthropic.com/
+ANTHROPIC_API_KEY=colocar key aqui
+
+# Seu ID numérico do Discord (clique direito no seu perfil > Copiar ID)
+# Necessário para comandos de admin como /adicionar-saldo
+DONO_BOT_ID=colocar id aqui
+
+
+
+
+requerimento
+
+discord.py>=2.3.0
+anthropic>=0.25.0
+python-dotenv>=1.0.0
+
+
+
+
+
+
+
 """
 ╔══════════════════════════════════════════════════════════════════╗
 ║              WILLYAM BOT — Bot de Estudos ENEM v2.0             ║
